@@ -1,4 +1,4 @@
-﻿# Lenovo ThinkPad xx40 sseries AIO - OpenCore Configuation
+﻿# Lenovo ThinkPad xx40 series AIO - OpenCore Configuation
 
 <img align="right" src="https://dl.exploitox.de/t440p-oc/Hackintosh_T440p_V4.jpg" alt="macOS Monterey running on the T440p" width="300">
 
