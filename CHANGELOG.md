@@ -1,6 +1,6 @@
 ![macOS Monterey running on the T440p](https://dl.exploitox.de/t440p-oc/Hackintosh_T440p_V4.jpg)
 
-<h3 align="center">Lenovo ThinkPad T440p - OpenCore Configuation</h3>
+<h3 align="center">Lenovo ThinkPad xx40 Series All In One - OpenCore Configuation</h3>
 <p align="center">
     <a href="https://github.com/valnoxy/t440p-oc/"><strong>Go back »</strong></a>
     <br />
@@ -8,6 +8,18 @@
 </p>
 
 ![-----------------------------------------------------](https://dl.exploitox.de/t440p-oc/rainbow.png)
+
+### Version 1.0.0 (MultimediaLucario) (09.26.2022)
+
+- OpenCore to ```0.8.3```
+- Kext Changes
+  - New / Updated
+    - Added USBInject.Kext
+    - Updated AirPortItwlm.kext
+- Config Changes
+    - Changed from ```MacBookPro11,1``` to ```MacBookPro11,5``` 
+- Other Changes
+  - Added support for the Lenovo ThinkPad T440s, X240, T440, and L440. 
 
 ### Version 1.7.2 (05.03.2022)
 - OpenCore to ```0.7.8```
