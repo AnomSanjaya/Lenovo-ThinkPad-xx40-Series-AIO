@@ -77,10 +77,10 @@ These are the Hardware component I use. But this OpenCore configuation **should 
 
 | Category  | Component                            |
 | --------- | ------------------------------------ |
-| CPU       | Intel Core i7-4800MQ                 |
-| GPU       | Intel HD Graphics 4600               |
-| SSD       | SanDisk SSD PLUS 480GB               |
-| Memory    | 8GB DDR3 1600Mhz                     |
+| CPU       | Intel Core i5-4300U.                 |
+| GPU       | Intel HD Graphics 4400               |
+| SSD       | Pioneer SSD APS 1TB                  |
+| Memory    | 12GB DDR3 1600Mhz                    |
 | Camera    | 720p Camera                          |
 | WiFi & BT | Intel Wireless-N 7260                |
 
