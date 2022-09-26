@@ -1,6 +1,7 @@
 ﻿# Lenovo ThinkPad xx40 series AIO - OpenCore Configuation
 
-<img align="right" src="https://dl.exploitox.de/t440p-oc/Hackintosh_T440p_V4.jpg" alt="macOS Monterey running on the T440p" width="300">
+![repository-open-graph-template aio](https://user-images.githubusercontent.com/72415505/192321126-059ab38d-23aa-42dd-8046-bb30397ab948.png)
+
 
 [![macOS](https://img.shields.io/badge/macOS-Monterey-brightgreen.svg)](https://developer.apple.com/documentation/macos-release-notes)
 [![macOS](https://img.shields.io/badge/macOS-Big%20Sur-brightgreen.svg)](https://developer.apple.com/documentation/macos-release-notes)
