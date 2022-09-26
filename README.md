@@ -95,7 +95,7 @@ These are the Hardware component I use. But this OpenCore configuation **should 
 </br>
 
 You must have the following items:
-- Lenovo ThinkPad T440p (Obviously 😁).
+- Lenovo ThinkPad X240, T440, T440s, or T440p (Obviously 😁).
 - Access to a working Windows machine with Python installed.
 - A pendrive with more than 4 GB (Keep in mind, during the preperation we will format the disk to create the install media).
 - an Internet connection via Ethernet.
