@@ -1,6 +1,7 @@
 ﻿# Lenovo ThinkPad xx40 series AIO - OpenCore Configuation
 
-<img align="right" src="https://dl.exploitox.de/t440p-oc/Hackintosh_T440p_V4.jpg" alt="macOS Monterey running on the T440p" width="300">
+![repository-open-graph-template aio](https://user-images.githubusercontent.com/72415505/192321126-059ab38d-23aa-42dd-8046-bb30397ab948.png)
+
 
 [![macOS](https://img.shields.io/badge/macOS-Monterey-brightgreen.svg)](https://developer.apple.com/documentation/macos-release-notes)
 [![macOS](https://img.shields.io/badge/macOS-Big%20Sur-brightgreen.svg)](https://developer.apple.com/documentation/macos-release-notes)
@@ -77,10 +78,10 @@ These are the Hardware component I use. But this OpenCore configuation **should 
 
 | Category  | Component                            |
 | --------- | ------------------------------------ |
-| CPU       | Intel Core i7-4800MQ                 |
-| GPU       | Intel HD Graphics 4600               |
-| SSD       | SanDisk SSD PLUS 480GB               |
-| Memory    | 8GB DDR3 1600Mhz                     |
+| CPU       | Intel Core i5-4300U                  |
+| GPU       | Intel HD Graphics 4400               |
+| SSD       | Pioneer SSD APS 1TB                  |
+| Memory    | 12GB DDR3 1600Mhz                    |
 | Camera    | 720p Camera                          |
 | WiFi & BT | Intel Wireless-N 7260                |
 
