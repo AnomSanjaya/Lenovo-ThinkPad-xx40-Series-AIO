@@ -18,7 +18,7 @@
    <br />
    <a href="https://github.com/valnoxy/t440p-oc/issues">Report Bug</a>
    ·
-   <a href="https://github.com/valnoxy/t440p-oc/blob/main/CHANGELOG.md">View Changelog</a>
+   <a href="https://github.com/MultimediaLucario/Lenovo-ThinkPad-xx40-Series-AIO/blob/main/CHANGELOG.md">View Changelog</a>
    ·
    <a href="https://www.youtube.com/watch?v=6Uz63UQiApQ">YouTube Video</a>
   </p>
